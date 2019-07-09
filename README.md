@@ -1,5 +1,5 @@
 # CrowdThinking
-The future of Knowledge
+The future of Knowledge Online
 
 This is an online file
 
