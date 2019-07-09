@@ -1,5 +1,8 @@
 # CrowdThinking
+
 The future of Knowledge Online
+
+We are discussing Branching and Commiting
 
 This is an online edit #2
 
